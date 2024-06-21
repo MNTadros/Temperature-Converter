@@ -1,0 +1,17 @@
+.thermometer {
+    position: relative;
+    width: 20px;
+    height: 200px;
+    background-color: #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.thermometer-fill {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #ff4c4c;
+    border-radius: 10px;
+}
